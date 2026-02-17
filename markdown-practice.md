@@ -13,14 +13,18 @@ Learning **AI** is *kinda* `fun`
 3. Stage your changes
 4. Git commit
 5. Git push to remote repository
+
+
 |   Tool      |   Purpose      | Link |
 |-------------|----------------|------|
 | Clone       | Download       | N/A  |
 |Pull request | Propose changes| N/A  |
+
 - [x] Staging
 - [x] Levelling
 - [ ] Linux command
 - [ ] Machine learning
+
 ```python
 print(Learning AI is fun but needs effort)
 ```
