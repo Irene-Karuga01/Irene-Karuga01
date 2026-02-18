@@ -38,7 +38,7 @@ print(Learning AI is fun but needs effort)
 # About me.
 My name is **Irene** and I am 25 years old. 
 I love eating *mokimo* because it is healthy and sweet. 
-I ~~hate~~ when I do not get something that I really wored hard for. 
+I ~~hate~~ when I do not get something that I really workhard for. 
 Some interesting facts about me are :-
 1. My love for coding started recently.
 2. I am a construction manager by profession.
